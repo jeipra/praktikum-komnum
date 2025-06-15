@@ -1,1 +1,1 @@
-# praktikum-komnum
+# Praktikum Komputasi Numerik oleh kelompok 21
